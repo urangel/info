@@ -10,8 +10,14 @@
   "author": "Ulises Rangel",
   "license": "MIT",
   "dependencies": {
+    "css-loader": "^3.1.0",
+    "csv-loader": "^3.0.2",
+    "file-loader": "^4.1.0",
     "lodash": "^4.17.15",
+    "papaparse": "^5.0.1",
+    "style-loader": "^0.23.1",
     "webpack": "^4.39.1",
-    "webpack-cli": "^3.3.6"
+    "webpack-cli": "^3.3.6",
+    "xml-loader": "^1.2.1"
   }
 }

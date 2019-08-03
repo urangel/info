@@ -1,0 +1,10 @@
+@font-face {
+  font-family: LemonMilk;
+  src: url('./LemonMilk.otf');
+}
+
+.title {
+  font-size: 4rem;
+  color: #222;
+  font-family: LemonMilk;
+}
