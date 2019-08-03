@@ -1,0 +1,17 @@
+{
+  "name": "info",
+  "version": "1.0.0",
+  "description": "Learn more",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "author": "Ulises Rangel",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "webpack": "^4.39.1",
+    "webpack-cli": "^3.3.6"
+  }
+}
