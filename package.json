@@ -15,7 +15,7 @@
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "express": "^4.17.1"
   },
   "devDependencies": {
